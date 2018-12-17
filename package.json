@@ -58,6 +58,6 @@
 		"imagemin-svgo": "^7.0.0"
 	},
 	"peerDependencies": {
-		"gulp": ">=4"
+		"gulp4": ">=4"
 	}
 }
